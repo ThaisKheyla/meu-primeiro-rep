@@ -1,2 +1,2 @@
 # meu-primeiro-rep
-Meu primeiro repositório no github
+Fiz uma alteração no repositório remoto.
